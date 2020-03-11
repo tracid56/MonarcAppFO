@@ -3665,12 +3665,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/monarc-project/zm-client.git",
-                "reference": "0f0206b91ad0ec0ca7794c5332c200e1f2a7e79c"
+                "reference": "0e233a5219781a33422317332955d8d01dd9fabb"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/monarc-project/zm-client/zipball/0f0206b91ad0ec0ca7794c5332c200e1f2a7e79c",
-                "reference": "0f0206b91ad0ec0ca7794c5332c200e1f2a7e79c",
+                "url": "https://api.github.com/repos/monarc-project/zm-client/zipball/0e233a5219781a33422317332955d8d01dd9fabb",
+                "reference": "0e233a5219781a33422317332955d8d01dd9fabb",
                 "shasum": ""
             },
             "require": {
@@ -3739,7 +3739,7 @@
                 }
             ],
             "description": "Frontoffice for monarc/monarc application",
-            "time": "2020-03-10T14:37:24+00:00"
+            "time": "2020-03-11T10:07:32+00:00"
         },
         {
             "name": "monarc/phpword",
